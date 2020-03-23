@@ -8,5 +8,6 @@ public class JustTest {
         System.out.println("this is branch1");
         System.out.println("66666");
         System.out.println("777");
+        System.out.println("888");
     }
 }
